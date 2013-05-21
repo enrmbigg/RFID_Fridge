@@ -1,0 +1,1 @@
+RFID fridge is a app in which moniotrs what food has been entered into a fridge an makes aware of the user how many are present and when they will go bad.
